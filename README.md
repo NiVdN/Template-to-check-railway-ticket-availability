@@ -15,7 +15,7 @@ Back end: PHP, MySQL Database
 ### 1. Retrieve our project (if you haven't done so already)
 
 ```git
- $ git clone git@github.com:Anish-U/Railway-Reservation.git
+ $ git clone git@github.com:https://github.com/NiVdN/Template-to-check-railway-ticket-availability.git
 ```
 
 ### 2. Move project folder to htdocs folder
